@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-device-width, initial-scale = 1, shrink-to-fit=no">
+    <title>
+        Popover
+    </title>
+
+    <style type="text/css">
+        .row {
+            margin-bottom: 10px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <button data-toggle="popover" class="btn btn-danger btn-lg" type="button" title="Título do Popover" data-content="Não há ninguém que ame a dor por si só, que a busque e queira tê-la, simplesmente por ser dor...">
+                        Clique para abrir o Popover
+                    </button>
+            </div>
+        </div>
+
+        <p>
+            Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o
+            século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de
+            modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica,
+            permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo
+            passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica
+            como Aldus PageMaker. Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos,
+            e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou
+            para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto
+            para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando
+            a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado
+            a softwares de editoração eletrônica como Aldus PageMaker. Lorem Ipsum é simplesmente uma simulação de texto
+        </p>
+        <div class="row">
+            <div class="col-12">
+                <buuton type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="top" data-content="Não há ninguém que ame a dor por si só, que a busque e queira tê-la, simplesmente por ser dor...">Popover - Top</buuton>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <buuton type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="right" data-content="Não há ninguém que ame a dor por si só, que a busque e queira tê-la, simplesmente por ser dor...">Popover - Right</buuton>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-12">
+                <buuton type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Não há ninguém que ame a dor por si só, que a busque e queira tê-la, simplesmente por ser dor...">Popover - Bottom</buuton>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <buuton type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="left" data-content="Não há ninguém que ame a dor por si só, que a busque e queira tê-la, simplesmente por ser dor...">Popover - left</buuton>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <script>
+        $(function () {
+
+            $('[data-toggle="popover"]').popover();
+        });
+    </script>
+</body>
+
+</html>
