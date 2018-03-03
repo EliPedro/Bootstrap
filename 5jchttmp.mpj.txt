@@ -1,0 +1,1436 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	cards.html
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 3 and 1 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   barraNavegacao.html
+#	new file:   barraProgesso.html
+#	new file:   bordas.html
+#	modified:   breadcrum.html
+#	new file:   cardscolumns.html
+#	new file:   cores.html
+#	modified:   css/bootstrap-grid.css
+#	modified:   css/bootstrap-grid.css.map
+#	modified:   css/bootstrap-grid.min.css
+#	modified:   css/bootstrap-grid.min.css.map
+#	modified:   css/bootstrap-reboot.css
+#	modified:   css/bootstrap-reboot.css.map
+#	modified:   css/bootstrap-reboot.min.css
+#	modified:   css/bootstrap-reboot.min.css.map
+#	modified:   css/bootstrap.css
+#	modified:   css/bootstrap.css.map
+#	modified:   css/bootstrap.min.css
+#	modified:   css/bootstrap.min.css.map
+#	new file:   espacamento.html
+#	modified:   grid.html
+#	new file:   helps.html
+#	new file:   icones.html
+#	new file:   iconic/.gitignore
+#	new file:   iconic/FONT-LICENSE
+#	new file:   iconic/ICON-LICENSE
+#	new file:   iconic/bower.json
+#	new file:   iconic/font/css/open-iconic-bootstrap.css
+#	new file:   iconic/font/css/open-iconic-bootstrap.less
+#	new file:   iconic/font/css/open-iconic-bootstrap.min.css
+#	new file:   iconic/font/css/open-iconic-bootstrap.scss
+#	new file:   iconic/font/css/open-iconic-bootstrap.styl
+#	new file:   iconic/font/css/open-iconic-foundation.css
+#	new file:   iconic/font/css/open-iconic-foundation.less
+#	new file:   iconic/font/css/open-iconic-foundation.min.css
+#	new file:   iconic/font/css/open-iconic-foundation.scss
+#	new file:   iconic/font/css/open-iconic-foundation.styl
+#	new file:   iconic/font/css/open-iconic.css
+#	new file:   iconic/font/css/open-iconic.less
+#	new file:   iconic/font/css/open-iconic.min.css
+#	new file:   iconic/font/css/open-iconic.scss
+#	new file:   iconic/font/css/open-iconic.styl
+#	new file:   iconic/font/fonts/open-iconic.eot
+#	new file:   iconic/font/fonts/open-iconic.otf
+#	new file:   iconic/font/fonts/open-iconic.svg
+#	new file:   iconic/font/fonts/open-iconic.ttf
+#	new file:   iconic/font/fonts/open-iconic.woff
+#	new file:   iconic/package.json
+#	new file:   iconic/png/account-login-2x.png
+#	new file:   iconic/png/account-login-3x.png
+#	new file:   iconic/png/account-login-4x.png
+#	new file:   iconic/png/account-login-6x.png
+#	new file:   iconic/png/account-login-8x.png
+#	new file:   iconic/png/account-login.png
+#	new file:   iconic/png/account-logout-2x.png
+#	new file:   iconic/png/account-logout-3x.png
+#	new file:   iconic/png/account-logout-4x.png
+#	new file:   iconic/png/account-logout-6x.png
+#	new file:   iconic/png/account-logout-8x.png
+#	new file:   iconic/png/account-logout.png
+#	new file:   iconic/png/action-redo-2x.png
+#	new file:   iconic/png/action-redo-3x.png
+#	new file:   iconic/png/action-redo-4x.png
+#	new file:   iconic/png/action-redo-6x.png
+#	new file:   iconic/png/action-redo-8x.png
+#	new file:   iconic/png/action-redo.png
+#	new file:   iconic/png/action-undo-2x.png
+#	new file:   iconic/png/action-undo-3x.png
+#	new file:   iconic/png/action-undo-4x.png
+#	new file:   iconic/png/action-undo-6x.png
+#	new file:   iconic/png/action-undo-8x.png
+#	new file:   iconic/png/action-undo.png
+#	new file:   iconic/png/align-center-2x.png
+#	new file:   iconic/png/align-center-3x.png
+#	new file:   iconic/png/align-center-4x.png
+#	new file:   iconic/png/align-center-6x.png
+#	new file:   iconic/png/align-center-8x.png
+#	new file:   iconic/png/align-center.png
+#	new file:   iconic/png/align-left-2x.png
+#	new file:   iconic/png/align-left-3x.png
+#	new file:   iconic/png/align-left-4x.png
+#	new file:   iconic/png/align-left-6x.png
+#	new file:   iconic/png/align-left-8x.png
+#	new file:   iconic/png/align-left.png
+#	new file:   iconic/png/align-right-2x.png
+#	new file:   iconic/png/align-right-3x.png
+#	new file:   iconic/png/align-right-4x.png
+#	new file:   iconic/png/align-right-6x.png
+#	new file:   iconic/png/align-right-8x.png
+#	new file:   iconic/png/align-right.png
+#	new file:   iconic/png/aperture-2x.png
+#	new file:   iconic/png/aperture-3x.png
+#	new file:   iconic/png/aperture-4x.png
+#	new file:   iconic/png/aperture-6x.png
+#	new file:   iconic/png/aperture-8x.png
+#	new file:   iconic/png/aperture.png
+#	new file:   iconic/png/arrow-bottom-2x.png
+#	new file:   iconic/png/arrow-bottom-3x.png
+#	new file:   iconic/png/arrow-bottom-4x.png
+#	new file:   iconic/png/arrow-bottom-6x.png
+#	new file:   iconic/png/arrow-bottom-8x.png
+#	new file:   iconic/png/arrow-bottom.png
+#	new file:   iconic/png/arrow-circle-bottom-2x.png
+#	new file:   iconic/png/arrow-circle-bottom-3x.png
+#	new file:   iconic/png/arrow-circle-bottom-4x.png
+#	new file:   iconic/png/arrow-circle-bottom-6x.png
+#	new file:   iconic/png/arrow-circle-bottom-8x.png
+#	new file:   iconic/png/arrow-circle-bottom.png
+#	new file:   iconic/png/arrow-circle-left-2x.png
+#	new file:   iconic/png/arrow-circle-left-3x.png
+#	new file:   iconic/png/arrow-circle-left-4x.png
+#	new file:   iconic/png/arrow-circle-left-6x.png
+#	new file:   iconic/png/arrow-circle-left-8x.png
+#	new file:   iconic/png/arrow-circle-left.png
+#	new file:   iconic/png/arrow-circle-right-2x.png
+#	new file:   iconic/png/arrow-circle-right-3x.png
+#	new file:   iconic/png/arrow-circle-right-4x.png
+#	new file:   iconic/png/arrow-circle-right-6x.png
+#	new file:   iconic/png/arrow-circle-right-8x.png
+#	new file:   iconic/png/arrow-circle-right.png
+#	new file:   iconic/png/arrow-circle-top-2x.png
+#	new file:   iconic/png/arrow-circle-top-3x.png
+#	new file:   iconic/png/arrow-circle-top-4x.png
+#	new file:   iconic/png/arrow-circle-top-6x.png
+#	new file:   iconic/png/arrow-circle-top-8x.png
+#	new file:   iconic/png/arrow-circle-top.png
+#	new file:   iconic/png/arrow-left-2x.png
+#	new file:   iconic/png/arrow-left-3x.png
+#	new file:   iconic/png/arrow-left-4x.png
+#	new file:   iconic/png/arrow-left-6x.png
+#	new file:   iconic/png/arrow-left-8x.png
+#
+# Changes not staged for commit:
+#	modified:   cards.html
+#	modified:   instalacaoLocal.html
+#	modified:   js/bootstrap.js
+#	modified:   js/bootstrap.min.js
+#	modified:   listagemGrupos.html
+#	modified:   tabelas.html
+#
+# Untracked files:
+#	iconic/README.md
+#	iconic/png/arrow-left.png
+#	iconic/png/arrow-right-2x.png
+#	iconic/png/arrow-right-3x.png
+#	iconic/png/arrow-right-4x.png
+#	iconic/png/arrow-right-6x.png
+#	iconic/png/arrow-right-8x.png
+#	iconic/png/arrow-right.png
+#	iconic/png/arrow-thick-bottom-2x.png
+#	iconic/png/arrow-thick-bottom-3x.png
+#	iconic/png/arrow-thick-bottom-4x.png
+#	iconic/png/arrow-thick-bottom-6x.png
+#	iconic/png/arrow-thick-bottom-8x.png
+#	iconic/png/arrow-thick-bottom.png
+#	iconic/png/arrow-thick-left-2x.png
+#	iconic/png/arrow-thick-left-3x.png
+#	iconic/png/arrow-thick-left-4x.png
+#	iconic/png/arrow-thick-left-6x.png
+#	iconic/png/arrow-thick-left-8x.png
+#	iconic/png/arrow-thick-left.png
+#	iconic/png/arrow-thick-right-2x.png
+#	iconic/png/arrow-thick-right-3x.png
+#	iconic/png/arrow-thick-right-4x.png
+#	iconic/png/arrow-thick-right-6x.png
+#	iconic/png/arrow-thick-right-8x.png
+#	iconic/png/arrow-thick-right.png
+#	iconic/png/arrow-thick-top-2x.png
+#	iconic/png/arrow-thick-top-3x.png
+#	iconic/png/arrow-thick-top-4x.png
+#	iconic/png/arrow-thick-top-6x.png
+#	iconic/png/arrow-thick-top-8x.png
+#	iconic/png/arrow-thick-top.png
+#	iconic/png/arrow-top-2x.png
+#	iconic/png/arrow-top-3x.png
+#	iconic/png/arrow-top-4x.png
+#	iconic/png/arrow-top-6x.png
+#	iconic/png/arrow-top-8x.png
+#	iconic/png/arrow-top.png
+#	iconic/png/audio-2x.png
+#	iconic/png/audio-3x.png
+#	iconic/png/audio-4x.png
+#	iconic/png/audio-6x.png
+#	iconic/png/audio-8x.png
+#	iconic/png/audio-spectrum-2x.png
+#	iconic/png/audio-spectrum-3x.png
+#	iconic/png/audio-spectrum-4x.png
+#	iconic/png/audio-spectrum-6x.png
+#	iconic/png/audio-spectrum-8x.png
+#	iconic/png/audio-spectrum.png
+#	iconic/png/audio.png
+#	iconic/png/badge-2x.png
+#	iconic/png/badge-3x.png
+#	iconic/png/badge-4x.png
+#	iconic/png/badge-6x.png
+#	iconic/png/badge-8x.png
+#	iconic/png/badge.png
+#	iconic/png/ban-2x.png
+#	iconic/png/ban-3x.png
+#	iconic/png/ban-4x.png
+#	iconic/png/ban-6x.png
+#	iconic/png/ban-8x.png
+#	iconic/png/ban.png
+#	iconic/png/bar-chart-2x.png
+#	iconic/png/bar-chart-3x.png
+#	iconic/png/bar-chart-4x.png
+#	iconic/png/bar-chart-6x.png
+#	iconic/png/bar-chart-8x.png
+#	iconic/png/bar-chart.png
+#	iconic/png/basket-2x.png
+#	iconic/png/basket-3x.png
+#	iconic/png/basket-4x.png
+#	iconic/png/basket-6x.png
+#	iconic/png/basket-8x.png
+#	iconic/png/basket.png
+#	iconic/png/battery-empty-2x.png
+#	iconic/png/battery-empty-3x.png
+#	iconic/png/battery-empty-4x.png
+#	iconic/png/battery-empty-6x.png
+#	iconic/png/battery-empty-8x.png
+#	iconic/png/battery-empty.png
+#	iconic/png/battery-full-2x.png
+#	iconic/png/battery-full-3x.png
+#	iconic/png/battery-full-4x.png
+#	iconic/png/battery-full-6x.png
+#	iconic/png/battery-full-8x.png
+#	iconic/png/battery-full.png
+#	iconic/png/beaker-2x.png
+#	iconic/png/beaker-3x.png
+#	iconic/png/beaker-4x.png
+#	iconic/png/beaker-6x.png
+#	iconic/png/beaker-8x.png
+#	iconic/png/beaker.png
+#	iconic/png/bell-2x.png
+#	iconic/png/bell-3x.png
+#	iconic/png/bell-4x.png
+#	iconic/png/bell-6x.png
+#	iconic/png/bell-8x.png
+#	iconic/png/bell.png
+#	iconic/png/bluetooth-2x.png
+#	iconic/png/bluetooth-3x.png
+#	iconic/png/bluetooth-4x.png
+#	iconic/png/bluetooth-6x.png
+#	iconic/png/bluetooth-8x.png
+#	iconic/png/bluetooth.png
+#	iconic/png/bold-2x.png
+#	iconic/png/bold-3x.png
+#	iconic/png/bold-4x.png
+#	iconic/png/bold-6x.png
+#	iconic/png/bold-8x.png
+#	iconic/png/bold.png
+#	iconic/png/bolt-2x.png
+#	iconic/png/bolt-3x.png
+#	iconic/png/bolt-4x.png
+#	iconic/png/bolt-6x.png
+#	iconic/png/bolt-8x.png
+#	iconic/png/bolt.png
+#	iconic/png/book-2x.png
+#	iconic/png/book-3x.png
+#	iconic/png/book-4x.png
+#	iconic/png/book-6x.png
+#	iconic/png/book-8x.png
+#	iconic/png/book.png
+#	iconic/png/bookmark-2x.png
+#	iconic/png/bookmark-3x.png
+#	iconic/png/bookmark-4x.png
+#	iconic/png/bookmark-6x.png
+#	iconic/png/bookmark-8x.png
+#	iconic/png/bookmark.png
+#	iconic/png/box-2x.png
+#	iconic/png/box-3x.png
+#	iconic/png/box-4x.png
+#	iconic/png/box-6x.png
+#	iconic/png/box-8x.png
+#	iconic/png/box.png
+#	iconic/png/briefcase-2x.png
+#	iconic/png/briefcase-3x.png
+#	iconic/png/briefcase-4x.png
+#	iconic/png/briefcase-6x.png
+#	iconic/png/briefcase-8x.png
+#	iconic/png/briefcase.png
+#	iconic/png/british-pound-2x.png
+#	iconic/png/british-pound-3x.png
+#	iconic/png/british-pound-4x.png
+#	iconic/png/british-pound-6x.png
+#	iconic/png/british-pound-8x.png
+#	iconic/png/british-pound.png
+#	iconic/png/browser-2x.png
+#	iconic/png/browser-3x.png
+#	iconic/png/browser-4x.png
+#	iconic/png/browser-6x.png
+#	iconic/png/browser-8x.png
+#	iconic/png/browser.png
+#	iconic/png/brush-2x.png
+#	iconic/png/brush-3x.png
+#	iconic/png/brush-4x.png
+#	iconic/png/brush-6x.png
+#	iconic/png/brush-8x.png
+#	iconic/png/brush.png
+#	iconic/png/bug-2x.png
+#	iconic/png/bug-3x.png
+#	iconic/png/bug-4x.png
+#	iconic/png/bug-6x.png
+#	iconic/png/bug-8x.png
+#	iconic/png/bug.png
+#	iconic/png/bullhorn-2x.png
+#	iconic/png/bullhorn-3x.png
+#	iconic/png/bullhorn-4x.png
+#	iconic/png/bullhorn-6x.png
+#	iconic/png/bullhorn-8x.png
+#	iconic/png/bullhorn.png
+#	iconic/png/calculator-2x.png
+#	iconic/png/calculator-3x.png
+#	iconic/png/calculator-4x.png
+#	iconic/png/calculator-6x.png
+#	iconic/png/calculator-8x.png
+#	iconic/png/calculator.png
+#	iconic/png/calendar-2x.png
+#	iconic/png/calendar-3x.png
+#	iconic/png/calendar-4x.png
+#	iconic/png/calendar-6x.png
+#	iconic/png/calendar-8x.png
+#	iconic/png/calendar.png
+#	iconic/png/camera-slr-2x.png
+#	iconic/png/camera-slr-3x.png
+#	iconic/png/camera-slr-4x.png
+#	iconic/png/camera-slr-6x.png
+#	iconic/png/camera-slr-8x.png
+#	iconic/png/camera-slr.png
+#	iconic/png/caret-bottom-2x.png
+#	iconic/png/caret-bottom-3x.png
+#	iconic/png/caret-bottom-4x.png
+#	iconic/png/caret-bottom-6x.png
+#	iconic/png/caret-bottom-8x.png
+#	iconic/png/caret-bottom.png
+#	iconic/png/caret-left-2x.png
+#	iconic/png/caret-left-3x.png
+#	iconic/png/caret-left-4x.png
+#	iconic/png/caret-left-6x.png
+#	iconic/png/caret-left-8x.png
+#	iconic/png/caret-left.png
+#	iconic/png/caret-right-2x.png
+#	iconic/png/caret-right-3x.png
+#	iconic/png/caret-right-4x.png
+#	iconic/png/caret-right-6x.png
+#	iconic/png/caret-right-8x.png
+#	iconic/png/caret-right.png
+#	iconic/png/caret-top-2x.png
+#	iconic/png/caret-top-3x.png
+#	iconic/png/caret-top-4x.png
+#	iconic/png/caret-top-6x.png
+#	iconic/png/caret-top-8x.png
+#	iconic/png/caret-top.png
+#	iconic/png/cart-2x.png
+#	iconic/png/cart-3x.png
+#	iconic/png/cart-4x.png
+#	iconic/png/cart-6x.png
+#	iconic/png/cart-8x.png
+#	iconic/png/cart.png
+#	iconic/png/chat-2x.png
+#	iconic/png/chat-3x.png
+#	iconic/png/chat-4x.png
+#	iconic/png/chat-6x.png
+#	iconic/png/chat-8x.png
+#	iconic/png/chat.png
+#	iconic/png/check-2x.png
+#	iconic/png/check-3x.png
+#	iconic/png/check-4x.png
+#	iconic/png/check-6x.png
+#	iconic/png/check-8x.png
+#	iconic/png/check.png
+#	iconic/png/chevron-bottom-2x.png
+#	iconic/png/chevron-bottom-3x.png
+#	iconic/png/chevron-bottom-4x.png
+#	iconic/png/chevron-bottom-6x.png
+#	iconic/png/chevron-bottom-8x.png
+#	iconic/png/chevron-bottom.png
+#	iconic/png/chevron-left-2x.png
+#	iconic/png/chevron-left-3x.png
+#	iconic/png/chevron-left-4x.png
+#	iconic/png/chevron-left-6x.png
+#	iconic/png/chevron-left-8x.png
+#	iconic/png/chevron-left.png
+#	iconic/png/chevron-right-2x.png
+#	iconic/png/chevron-right-3x.png
+#	iconic/png/chevron-right-4x.png
+#	iconic/png/chevron-right-6x.png
+#	iconic/png/chevron-right-8x.png
+#	iconic/png/chevron-right.png
+#	iconic/png/chevron-top-2x.png
+#	iconic/png/chevron-top-3x.png
+#	iconic/png/chevron-top-4x.png
+#	iconic/png/chevron-top-6x.png
+#	iconic/png/chevron-top-8x.png
+#	iconic/png/chevron-top.png
+#	iconic/png/circle-check-2x.png
+#	iconic/png/circle-check-3x.png
+#	iconic/png/circle-check-4x.png
+#	iconic/png/circle-check-6x.png
+#	iconic/png/circle-check-8x.png
+#	iconic/png/circle-check.png
+#	iconic/png/circle-x-2x.png
+#	iconic/png/circle-x-3x.png
+#	iconic/png/circle-x-4x.png
+#	iconic/png/circle-x-6x.png
+#	iconic/png/circle-x-8x.png
+#	iconic/png/circle-x.png
+#	iconic/png/clipboard-2x.png
+#	iconic/png/clipboard-3x.png
+#	iconic/png/clipboard-4x.png
+#	iconic/png/clipboard-6x.png
+#	iconic/png/clipboard-8x.png
+#	iconic/png/clipboard.png
+#	iconic/png/clock-2x.png
+#	iconic/png/clock-3x.png
+#	iconic/png/clock-4x.png
+#	iconic/png/clock-6x.png
+#	iconic/png/clock-8x.png
+#	iconic/png/clock.png
+#	iconic/png/cloud-2x.png
+#	iconic/png/cloud-3x.png
+#	iconic/png/cloud-4x.png
+#	iconic/png/cloud-6x.png
+#	iconic/png/cloud-8x.png
+#	iconic/png/cloud-download-2x.png
+#	iconic/png/cloud-download-3x.png
+#	iconic/png/cloud-download-4x.png
+#	iconic/png/cloud-download-6x.png
+#	iconic/png/cloud-download-8x.png
+#	iconic/png/cloud-download.png
+#	iconic/png/cloud-upload-2x.png
+#	iconic/png/cloud-upload-3x.png
+#	iconic/png/cloud-upload-4x.png
+#	iconic/png/cloud-upload-6x.png
+#	iconic/png/cloud-upload-8x.png
+#	iconic/png/cloud-upload.png
+#	iconic/png/cloud.png
+#	iconic/png/cloudy-2x.png
+#	iconic/png/cloudy-3x.png
+#	iconic/png/cloudy-4x.png
+#	iconic/png/cloudy-6x.png
+#	iconic/png/cloudy-8x.png
+#	iconic/png/cloudy.png
+#	iconic/png/code-2x.png
+#	iconic/png/code-3x.png
+#	iconic/png/code-4x.png
+#	iconic/png/code-6x.png
+#	iconic/png/code-8x.png
+#	iconic/png/code.png
+#	iconic/png/cog-2x.png
+#	iconic/png/cog-3x.png
+#	iconic/png/cog-4x.png
+#	iconic/png/cog-6x.png
+#	iconic/png/cog-8x.png
+#	iconic/png/cog.png
+#	iconic/png/collapse-down-2x.png
+#	iconic/png/collapse-down-3x.png
+#	iconic/png/collapse-down-4x.png
+#	iconic/png/collapse-down-6x.png
+#	iconic/png/collapse-down-8x.png
+#	iconic/png/collapse-down.png
+#	iconic/png/collapse-left-2x.png
+#	iconic/png/collapse-left-3x.png
+#	iconic/png/collapse-left-4x.png
+#	iconic/png/collapse-left-6x.png
+#	iconic/png/collapse-left-8x.png
+#	iconic/png/collapse-left.png
+#	iconic/png/collapse-right-2x.png
+#	iconic/png/collapse-right-3x.png
+#	iconic/png/collapse-right-4x.png
+#	iconic/png/collapse-right-6x.png
+#	iconic/png/collapse-right-8x.png
+#	iconic/png/collapse-right.png
+#	iconic/png/collapse-up-2x.png
+#	iconic/png/collapse-up-3x.png
+#	iconic/png/collapse-up-4x.png
+#	iconic/png/collapse-up-6x.png
+#	iconic/png/collapse-up-8x.png
+#	iconic/png/collapse-up.png
+#	iconic/png/command-2x.png
+#	iconic/png/command-3x.png
+#	iconic/png/command-4x.png
+#	iconic/png/command-6x.png
+#	iconic/png/command-8x.png
+#	iconic/png/command.png
+#	iconic/png/comment-square-2x.png
+#	iconic/png/comment-square-3x.png
+#	iconic/png/comment-square-4x.png
+#	iconic/png/comment-square-6x.png
+#	iconic/png/comment-square-8x.png
+#	iconic/png/comment-square.png
+#	iconic/png/compass-2x.png
+#	iconic/png/compass-3x.png
+#	iconic/png/compass-4x.png
+#	iconic/png/compass-6x.png
+#	iconic/png/compass-8x.png
+#	iconic/png/compass.png
+#	iconic/png/contrast-2x.png
+#	iconic/png/contrast-3x.png
+#	iconic/png/contrast-4x.png
+#	iconic/png/contrast-6x.png
+#	iconic/png/contrast-8x.png
+#	iconic/png/contrast.png
+#	iconic/png/copywriting-2x.png
+#	iconic/png/copywriting-3x.png
+#	iconic/png/copywriting-4x.png
+#	iconic/png/copywriting-6x.png
+#	iconic/png/copywriting-8x.png
+#	iconic/png/copywriting.png
+#	iconic/png/credit-card-2x.png
+#	iconic/png/credit-card-3x.png
+#	iconic/png/credit-card-4x.png
+#	iconic/png/credit-card-6x.png
+#	iconic/png/credit-card-8x.png
+#	iconic/png/credit-card.png
+#	iconic/png/crop-2x.png
+#	iconic/png/crop-3x.png
+#	iconic/png/crop-4x.png
+#	iconic/png/crop-6x.png
+#	iconic/png/crop-8x.png
+#	iconic/png/crop.png
+#	iconic/png/dashboard-2x.png
+#	iconic/png/dashboard-3x.png
+#	iconic/png/dashboard-4x.png
+#	iconic/png/dashboard-6x.png
+#	iconic/png/dashboard-8x.png
+#	iconic/png/dashboard.png
+#	iconic/png/data-transfer-download-2x.png
+#	iconic/png/data-transfer-download-3x.png
+#	iconic/png/data-transfer-download-4x.png
+#	iconic/png/data-transfer-download-6x.png
+#	iconic/png/data-transfer-download-8x.png
+#	iconic/png/data-transfer-download.png
+#	iconic/png/data-transfer-upload-2x.png
+#	iconic/png/data-transfer-upload-3x.png
+#	iconic/png/data-transfer-upload-4x.png
+#	iconic/png/data-transfer-upload-6x.png
+#	iconic/png/data-transfer-upload-8x.png
+#	iconic/png/data-transfer-upload.png
+#	iconic/png/delete-2x.png
+#	iconic/png/delete-3x.png
+#	iconic/png/delete-4x.png
+#	iconic/png/delete-6x.png
+#	iconic/png/delete-8x.png
+#	iconic/png/delete.png
+#	iconic/png/dial-2x.png
+#	iconic/png/dial-3x.png
+#	iconic/png/dial-4x.png
+#	iconic/png/dial-6x.png
+#	iconic/png/dial-8x.png
+#	iconic/png/dial.png
+#	iconic/png/document-2x.png
+#	iconic/png/document-3x.png
+#	iconic/png/document-4x.png
+#	iconic/png/document-6x.png
+#	iconic/png/document-8x.png
+#	iconic/png/document.png
+#	iconic/png/dollar-2x.png
+#	iconic/png/dollar-3x.png
+#	iconic/png/dollar-4x.png
+#	iconic/png/dollar-6x.png
+#	iconic/png/dollar-8x.png
+#	iconic/png/dollar.png
+#	iconic/png/double-quote-sans-left-2x.png
+#	iconic/png/double-quote-sans-left-3x.png
+#	iconic/png/double-quote-sans-left-4x.png
+#	iconic/png/double-quote-sans-left-6x.png
+#	iconic/png/double-quote-sans-left-8x.png
+#	iconic/png/double-quote-sans-left.png
+#	iconic/png/double-quote-sans-right-2x.png
+#	iconic/png/double-quote-sans-right-3x.png
+#	iconic/png/double-quote-sans-right-4x.png
+#	iconic/png/double-quote-sans-right-6x.png
+#	iconic/png/double-quote-sans-right-8x.png
+#	iconic/png/double-quote-sans-right.png
+#	iconic/png/double-quote-serif-left-2x.png
+#	iconic/png/double-quote-serif-left-3x.png
+#	iconic/png/double-quote-serif-left-4x.png
+#	iconic/png/double-quote-serif-left-6x.png
+#	iconic/png/double-quote-serif-left-8x.png
+#	iconic/png/double-quote-serif-left.png
+#	iconic/png/double-quote-serif-right-2x.png
+#	iconic/png/double-quote-serif-right-3x.png
+#	iconic/png/double-quote-serif-right-4x.png
+#	iconic/png/double-quote-serif-right-6x.png
+#	iconic/png/double-quote-serif-right-8x.png
+#	iconic/png/double-quote-serif-right.png
+#	iconic/png/droplet-2x.png
+#	iconic/png/droplet-3x.png
+#	iconic/png/droplet-4x.png
+#	iconic/png/droplet-6x.png
+#	iconic/png/droplet-8x.png
+#	iconic/png/droplet.png
+#	iconic/png/eject-2x.png
+#	iconic/png/eject-3x.png
+#	iconic/png/eject-4x.png
+#	iconic/png/eject-6x.png
+#	iconic/png/eject-8x.png
+#	iconic/png/eject.png
+#	iconic/png/elevator-2x.png
+#	iconic/png/elevator-3x.png
+#	iconic/png/elevator-4x.png
+#	iconic/png/elevator-6x.png
+#	iconic/png/elevator-8x.png
+#	iconic/png/elevator.png
+#	iconic/png/ellipses-2x.png
+#	iconic/png/ellipses-3x.png
+#	iconic/png/ellipses-4x.png
+#	iconic/png/ellipses-6x.png
+#	iconic/png/ellipses-8x.png
+#	iconic/png/ellipses.png
+#	iconic/png/envelope-closed-2x.png
+#	iconic/png/envelope-closed-3x.png
+#	iconic/png/envelope-closed-4x.png
+#	iconic/png/envelope-closed-6x.png
+#	iconic/png/envelope-closed-8x.png
+#	iconic/png/envelope-closed.png
+#	iconic/png/envelope-open-2x.png
+#	iconic/png/envelope-open-3x.png
+#	iconic/png/envelope-open-4x.png
+#	iconic/png/envelope-open-6x.png
+#	iconic/png/envelope-open-8x.png
+#	iconic/png/envelope-open.png
+#	iconic/png/euro-2x.png
+#	iconic/png/euro-3x.png
+#	iconic/png/euro-4x.png
+#	iconic/png/euro-6x.png
+#	iconic/png/euro-8x.png
+#	iconic/png/euro.png
+#	iconic/png/excerpt-2x.png
+#	iconic/png/excerpt-3x.png
+#	iconic/png/excerpt-4x.png
+#	iconic/png/excerpt-6x.png
+#	iconic/png/excerpt-8x.png
+#	iconic/png/excerpt.png
+#	iconic/png/expand-down-2x.png
+#	iconic/png/expand-down-3x.png
+#	iconic/png/expand-down-4x.png
+#	iconic/png/expand-down-6x.png
+#	iconic/png/expand-down-8x.png
+#	iconic/png/expand-down.png
+#	iconic/png/expand-left-2x.png
+#	iconic/png/expand-left-3x.png
+#	iconic/png/expand-left-4x.png
+#	iconic/png/expand-left-6x.png
+#	iconic/png/expand-left-8x.png
+#	iconic/png/expand-left.png
+#	iconic/png/expand-right-2x.png
+#	iconic/png/expand-right-3x.png
+#	iconic/png/expand-right-4x.png
+#	iconic/png/expand-right-6x.png
+#	iconic/png/expand-right-8x.png
+#	iconic/png/expand-right.png
+#	iconic/png/expand-up-2x.png
+#	iconic/png/expand-up-3x.png
+#	iconic/png/expand-up-4x.png
+#	iconic/png/expand-up-6x.png
+#	iconic/png/expand-up-8x.png
+#	iconic/png/expand-up.png
+#	iconic/png/external-link-2x.png
+#	iconic/png/external-link-3x.png
+#	iconic/png/external-link-4x.png
+#	iconic/png/external-link-6x.png
+#	iconic/png/external-link-8x.png
+#	iconic/png/external-link.png
+#	iconic/png/eye-2x.png
+#	iconic/png/eye-3x.png
+#	iconic/png/eye-4x.png
+#	iconic/png/eye-6x.png
+#	iconic/png/eye-8x.png
+#	iconic/png/eye.png
+#	iconic/png/eyedropper-2x.png
+#	iconic/png/eyedropper-3x.png
+#	iconic/png/eyedropper-4x.png
+#	iconic/png/eyedropper-6x.png
+#	iconic/png/eyedropper-8x.png
+#	iconic/png/eyedropper.png
+#	iconic/png/file-2x.png
+#	iconic/png/file-3x.png
+#	iconic/png/file-4x.png
+#	iconic/png/file-6x.png
+#	iconic/png/file-8x.png
+#	iconic/png/file.png
+#	iconic/png/fire-2x.png
+#	iconic/png/fire-3x.png
+#	iconic/png/fire-4x.png
+#	iconic/png/fire-6x.png
+#	iconic/png/fire-8x.png
+#	iconic/png/fire.png
+#	iconic/png/flag-2x.png
+#	iconic/png/flag-3x.png
+#	iconic/png/flag-4x.png
+#	iconic/png/flag-6x.png
+#	iconic/png/flag-8x.png
+#	iconic/png/flag.png
+#	iconic/png/flash-2x.png
+#	iconic/png/flash-3x.png
+#	iconic/png/flash-4x.png
+#	iconic/png/flash-6x.png
+#	iconic/png/flash-8x.png
+#	iconic/png/flash.png
+#	iconic/png/folder-2x.png
+#	iconic/png/folder-3x.png
+#	iconic/png/folder-4x.png
+#	iconic/png/folder-6x.png
+#	iconic/png/folder-8x.png
+#	iconic/png/folder.png
+#	iconic/png/fork-2x.png
+#	iconic/png/fork-3x.png
+#	iconic/png/fork-4x.png
+#	iconic/png/fork-6x.png
+#	iconic/png/fork-8x.png
+#	iconic/png/fork.png
+#	iconic/png/fullscreen-enter-2x.png
+#	iconic/png/fullscreen-enter-3x.png
+#	iconic/png/fullscreen-enter-4x.png
+#	iconic/png/fullscreen-enter-6x.png
+#	iconic/png/fullscreen-enter-8x.png
+#	iconic/png/fullscreen-enter.png
+#	iconic/png/fullscreen-exit-2x.png
+#	iconic/png/fullscreen-exit-3x.png
+#	iconic/png/fullscreen-exit-4x.png
+#	iconic/png/fullscreen-exit-6x.png
+#	iconic/png/fullscreen-exit-8x.png
+#	iconic/png/fullscreen-exit.png
+#	iconic/png/globe-2x.png
+#	iconic/png/globe-3x.png
+#	iconic/png/globe-4x.png
+#	iconic/png/globe-6x.png
+#	iconic/png/globe-8x.png
+#	iconic/png/globe.png
+#	iconic/png/graph-2x.png
+#	iconic/png/graph-3x.png
+#	iconic/png/graph-4x.png
+#	iconic/png/graph-6x.png
+#	iconic/png/graph-8x.png
+#	iconic/png/graph.png
+#	iconic/png/grid-four-up-2x.png
+#	iconic/png/grid-four-up-3x.png
+#	iconic/png/grid-four-up-4x.png
+#	iconic/png/grid-four-up-6x.png
+#	iconic/png/grid-four-up-8x.png
+#	iconic/png/grid-four-up.png
+#	iconic/png/grid-three-up-2x.png
+#	iconic/png/grid-three-up-3x.png
+#	iconic/png/grid-three-up-4x.png
+#	iconic/png/grid-three-up-6x.png
+#	iconic/png/grid-three-up-8x.png
+#	iconic/png/grid-three-up.png
+#	iconic/png/grid-two-up-2x.png
+#	iconic/png/grid-two-up-3x.png
+#	iconic/png/grid-two-up-4x.png
+#	iconic/png/grid-two-up-6x.png
+#	iconic/png/grid-two-up-8x.png
+#	iconic/png/grid-two-up.png
+#	iconic/png/hard-drive-2x.png
+#	iconic/png/hard-drive-3x.png
+#	iconic/png/hard-drive-4x.png
+#	iconic/png/hard-drive-6x.png
+#	iconic/png/hard-drive-8x.png
+#	iconic/png/hard-drive.png
+#	iconic/png/header-2x.png
+#	iconic/png/header-3x.png
+#	iconic/png/header-4x.png
+#	iconic/png/header-6x.png
+#	iconic/png/header-8x.png
+#	iconic/png/header.png
+#	iconic/png/headphones-2x.png
+#	iconic/png/headphones-3x.png
+#	iconic/png/headphones-4x.png
+#	iconic/png/headphones-6x.png
+#	iconic/png/headphones-8x.png
+#	iconic/png/headphones.png
+#	iconic/png/heart-2x.png
+#	iconic/png/heart-3x.png
+#	iconic/png/heart-4x.png
+#	iconic/png/heart-6x.png
+#	iconic/png/heart-8x.png
+#	iconic/png/heart.png
+#	iconic/png/home-2x.png
+#	iconic/png/home-3x.png
+#	iconic/png/home-4x.png
+#	iconic/png/home-6x.png
+#	iconic/png/home-8x.png
+#	iconic/png/home.png
+#	iconic/png/image-2x.png
+#	iconic/png/image-3x.png
+#	iconic/png/image-4x.png
+#	iconic/png/image-6x.png
+#	iconic/png/image-8x.png
+#	iconic/png/image.png
+#	iconic/png/inbox-2x.png
+#	iconic/png/inbox-3x.png
+#	iconic/png/inbox-4x.png
+#	iconic/png/inbox-6x.png
+#	iconic/png/inbox-8x.png
+#	iconic/png/inbox.png
+#	iconic/png/infinity-2x.png
+#	iconic/png/infinity-3x.png
+#	iconic/png/infinity-4x.png
+#	iconic/png/infinity-6x.png
+#	iconic/png/infinity-8x.png
+#	iconic/png/infinity.png
+#	iconic/png/info-2x.png
+#	iconic/png/info-3x.png
+#	iconic/png/info-4x.png
+#	iconic/png/info-6x.png
+#	iconic/png/info-8x.png
+#	iconic/png/info.png
+#	iconic/png/italic-2x.png
+#	iconic/png/italic-3x.png
+#	iconic/png/italic-4x.png
+#	iconic/png/italic-6x.png
+#	iconic/png/italic-8x.png
+#	iconic/png/italic.png
+#	iconic/png/justify-center-2x.png
+#	iconic/png/justify-center-3x.png
+#	iconic/png/justify-center-4x.png
+#	iconic/png/justify-center-6x.png
+#	iconic/png/justify-center-8x.png
+#	iconic/png/justify-center.png
+#	iconic/png/justify-left-2x.png
+#	iconic/png/justify-left-3x.png
+#	iconic/png/justify-left-4x.png
+#	iconic/png/justify-left-6x.png
+#	iconic/png/justify-left-8x.png
+#	iconic/png/justify-left.png
+#	iconic/png/justify-right-2x.png
+#	iconic/png/justify-right-3x.png
+#	iconic/png/justify-right-4x.png
+#	iconic/png/justify-right-6x.png
+#	iconic/png/justify-right-8x.png
+#	iconic/png/justify-right.png
+#	iconic/png/key-2x.png
+#	iconic/png/key-3x.png
+#	iconic/png/key-4x.png
+#	iconic/png/key-6x.png
+#	iconic/png/key-8x.png
+#	iconic/png/key.png
+#	iconic/png/laptop-2x.png
+#	iconic/png/laptop-3x.png
+#	iconic/png/laptop-4x.png
+#	iconic/png/laptop-6x.png
+#	iconic/png/laptop-8x.png
+#	iconic/png/laptop.png
+#	iconic/png/layers-2x.png
+#	iconic/png/layers-3x.png
+#	iconic/png/layers-4x.png
+#	iconic/png/layers-6x.png
+#	iconic/png/layers-8x.png
+#	iconic/png/layers.png
+#	iconic/png/lightbulb-2x.png
+#	iconic/png/lightbulb-3x.png
+#	iconic/png/lightbulb-4x.png
+#	iconic/png/lightbulb-6x.png
+#	iconic/png/lightbulb-8x.png
+#	iconic/png/lightbulb.png
+#	iconic/png/link-broken-2x.png
+#	iconic/png/link-broken-3x.png
+#	iconic/png/link-broken-4x.png
+#	iconic/png/link-broken-6x.png
+#	iconic/png/link-broken-8x.png
+#	iconic/png/link-broken.png
+#	iconic/png/link-intact-2x.png
+#	iconic/png/link-intact-3x.png
+#	iconic/png/link-intact-4x.png
+#	iconic/png/link-intact-6x.png
+#	iconic/png/link-intact-8x.png
+#	iconic/png/link-intact.png
+#	iconic/png/list-2x.png
+#	iconic/png/list-3x.png
+#	iconic/png/list-4x.png
+#	iconic/png/list-6x.png
+#	iconic/png/list-8x.png
+#	iconic/png/list-rich-2x.png
+#	iconic/png/list-rich-3x.png
+#	iconic/png/list-rich-4x.png
+#	iconic/png/list-rich-6x.png
+#	iconic/png/list-rich-8x.png
+#	iconic/png/list-rich.png
+#	iconic/png/list.png
+#	iconic/png/location-2x.png
+#	iconic/png/location-3x.png
+#	iconic/png/location-4x.png
+#	iconic/png/location-6x.png
+#	iconic/png/location-8x.png
+#	iconic/png/location.png
+#	iconic/png/lock-locked-2x.png
+#	iconic/png/lock-locked-3x.png
+#	iconic/png/lock-locked-4x.png
+#	iconic/png/lock-locked-6x.png
+#	iconic/png/lock-locked-8x.png
+#	iconic/png/lock-locked.png
+#	iconic/png/lock-unlocked-2x.png
+#	iconic/png/lock-unlocked-3x.png
+#	iconic/png/lock-unlocked-4x.png
+#	iconic/png/lock-unlocked-6x.png
+#	iconic/png/lock-unlocked-8x.png
+#	iconic/png/lock-unlocked.png
+#	iconic/png/loop-2x.png
+#	iconic/png/loop-3x.png
+#	iconic/png/loop-4x.png
+#	iconic/png/loop-6x.png
+#	iconic/png/loop-8x.png
+#	iconic/png/loop-circular-2x.png
+#	iconic/png/loop-circular-3x.png
+#	iconic/png/loop-circular-4x.png
+#	iconic/png/loop-circular-6x.png
+#	iconic/png/loop-circular-8x.png
+#	iconic/png/loop-circular.png
+#	iconic/png/loop-square-2x.png
+#	iconic/png/loop-square-3x.png
+#	iconic/png/loop-square-4x.png
+#	iconic/png/loop-square-6x.png
+#	iconic/png/loop-square-8x.png
+#	iconic/png/loop-square.png
+#	iconic/png/loop.png
+#	iconic/png/magnifying-glass-2x.png
+#	iconic/png/magnifying-glass-3x.png
+#	iconic/png/magnifying-glass-4x.png
+#	iconic/png/magnifying-glass-6x.png
+#	iconic/png/magnifying-glass-8x.png
+#	iconic/png/magnifying-glass.png
+#	iconic/png/map-2x.png
+#	iconic/png/map-3x.png
+#	iconic/png/map-4x.png
+#	iconic/png/map-6x.png
+#	iconic/png/map-8x.png
+#	iconic/png/map-marker-2x.png
+#	iconic/png/map-marker-3x.png
+#	iconic/png/map-marker-4x.png
+#	iconic/png/map-marker-6x.png
+#	iconic/png/map-marker-8x.png
+#	iconic/png/map-marker.png
+#	iconic/png/map.png
+#	iconic/png/media-pause-2x.png
+#	iconic/png/media-pause-3x.png
+#	iconic/png/media-pause-4x.png
+#	iconic/png/media-pause-6x.png
+#	iconic/png/media-pause-8x.png
+#	iconic/png/media-pause.png
+#	iconic/png/media-play-2x.png
+#	iconic/png/media-play-3x.png
+#	iconic/png/media-play-4x.png
+#	iconic/png/media-play-6x.png
+#	iconic/png/media-play-8x.png
+#	iconic/png/media-play.png
+#	iconic/png/media-record-2x.png
+#	iconic/png/media-record-3x.png
+#	iconic/png/media-record-4x.png
+#	iconic/png/media-record-6x.png
+#	iconic/png/media-record-8x.png
+#	iconic/png/media-record.png
+#	iconic/png/media-skip-backward-2x.png
+#	iconic/png/media-skip-backward-3x.png
+#	iconic/png/media-skip-backward-4x.png
+#	iconic/png/media-skip-backward-6x.png
+#	iconic/png/media-skip-backward-8x.png
+#	iconic/png/media-skip-backward.png
+#	iconic/png/media-skip-forward-2x.png
+#	iconic/png/media-skip-forward-3x.png
+#	iconic/png/media-skip-forward-4x.png
+#	iconic/png/media-skip-forward-6x.png
+#	iconic/png/media-skip-forward-8x.png
+#	iconic/png/media-skip-forward.png
+#	iconic/png/media-step-backward-2x.png
+#	iconic/png/media-step-backward-3x.png
+#	iconic/png/media-step-backward-4x.png
+#	iconic/png/media-step-backward-6x.png
+#	iconic/png/media-step-backward-8x.png
+#	iconic/png/media-step-backward.png
+#	iconic/png/media-step-forward-2x.png
+#	iconic/png/media-step-forward-3x.png
+#	iconic/png/media-step-forward-4x.png
+#	iconic/png/media-step-forward-6x.png
+#	iconic/png/media-step-forward-8x.png
+#	iconic/png/media-step-forward.png
+#	iconic/png/media-stop-2x.png
+#	iconic/png/media-stop-3x.png
+#	iconic/png/media-stop-4x.png
+#	iconic/png/media-stop-6x.png
+#	iconic/png/media-stop-8x.png
+#	iconic/png/media-stop.png
+#	iconic/png/medical-cross-2x.png
+#	iconic/png/medical-cross-3x.png
+#	iconic/png/medical-cross-4x.png
+#	iconic/png/medical-cross-6x.png
+#	iconic/png/medical-cross-8x.png
+#	iconic/png/medical-cross.png
+#	iconic/png/menu-2x.png
+#	iconic/png/menu-3x.png
+#	iconic/png/menu-4x.png
+#	iconic/png/menu-6x.png
+#	iconic/png/menu-8x.png
+#	iconic/png/menu.png
+#	iconic/png/microphone-2x.png
+#	iconic/png/microphone-3x.png
+#	iconic/png/microphone-4x.png
+#	iconic/png/microphone-6x.png
+#	iconic/png/microphone-8x.png
+#	iconic/png/microphone.png
+#	iconic/png/minus-2x.png
+#	iconic/png/minus-3x.png
+#	iconic/png/minus-4x.png
+#	iconic/png/minus-6x.png
+#	iconic/png/minus-8x.png
+#	iconic/png/minus.png
+#	iconic/png/monitor-2x.png
+#	iconic/png/monitor-3x.png
+#	iconic/png/monitor-4x.png
+#	iconic/png/monitor-6x.png
+#	iconic/png/monitor-8x.png
+#	iconic/png/monitor.png
+#	iconic/png/moon-2x.png
+#	iconic/png/moon-3x.png
+#	iconic/png/moon-4x.png
+#	iconic/png/moon-6x.png
+#	iconic/png/moon-8x.png
+#	iconic/png/moon.png
+#	iconic/png/move-2x.png
+#	iconic/png/move-3x.png
+#	iconic/png/move-4x.png
+#	iconic/png/move-6x.png
+#	iconic/png/move-8x.png
+#	iconic/png/move.png
+#	iconic/png/musical-note-2x.png
+#	iconic/png/musical-note-3x.png
+#	iconic/png/musical-note-4x.png
+#	iconic/png/musical-note-6x.png
+#	iconic/png/musical-note-8x.png
+#	iconic/png/musical-note.png
+#	iconic/png/paperclip-2x.png
+#	iconic/png/paperclip-3x.png
+#	iconic/png/paperclip-4x.png
+#	iconic/png/paperclip-6x.png
+#	iconic/png/paperclip-8x.png
+#	iconic/png/paperclip.png
+#	iconic/png/pencil-2x.png
+#	iconic/png/pencil-3x.png
+#	iconic/png/pencil-4x.png
+#	iconic/png/pencil-6x.png
+#	iconic/png/pencil-8x.png
+#	iconic/png/pencil.png
+#	iconic/png/people-2x.png
+#	iconic/png/people-3x.png
+#	iconic/png/people-4x.png
+#	iconic/png/people-6x.png
+#	iconic/png/people-8x.png
+#	iconic/png/people.png
+#	iconic/png/person-2x.png
+#	iconic/png/person-3x.png
+#	iconic/png/person-4x.png
+#	iconic/png/person-6x.png
+#	iconic/png/person-8x.png
+#	iconic/png/person.png
+#	iconic/png/phone-2x.png
+#	iconic/png/phone-3x.png
+#	iconic/png/phone-4x.png
+#	iconic/png/phone-6x.png
+#	iconic/png/phone-8x.png
+#	iconic/png/phone.png
+#	iconic/png/pie-chart-2x.png
+#	iconic/png/pie-chart-3x.png
+#	iconic/png/pie-chart-4x.png
+#	iconic/png/pie-chart-6x.png
+#	iconic/png/pie-chart-8x.png
+#	iconic/png/pie-chart.png
+#	iconic/png/pin-2x.png
+#	iconic/png/pin-3x.png
+#	iconic/png/pin-4x.png
+#	iconic/png/pin-6x.png
+#	iconic/png/pin-8x.png
+#	iconic/png/pin.png
+#	iconic/png/play-circle-2x.png
+#	iconic/png/play-circle-3x.png
+#	iconic/png/play-circle-4x.png
+#	iconic/png/play-circle-6x.png
+#	iconic/png/play-circle-8x.png
+#	iconic/png/play-circle.png
+#	iconic/png/plus-2x.png
+#	iconic/png/plus-3x.png
+#	iconic/png/plus-4x.png
+#	iconic/png/plus-6x.png
+#	iconic/png/plus-8x.png
+#	iconic/png/plus.png
+#	iconic/png/power-standby-2x.png
+#	iconic/png/power-standby-3x.png
+#	iconic/png/power-standby-4x.png
+#	iconic/png/power-standby-6x.png
+#	iconic/png/power-standby-8x.png
+#	iconic/png/power-standby.png
+#	iconic/png/print-2x.png
+#	iconic/png/print-3x.png
+#	iconic/png/print-4x.png
+#	iconic/png/print-6x.png
+#	iconic/png/print-8x.png
+#	iconic/png/print.png
+#	iconic/png/project-2x.png
+#	iconic/png/project-3x.png
+#	iconic/png/project-4x.png
+#	iconic/png/project-6x.png
+#	iconic/png/project-8x.png
+#	iconic/png/project.png
+#	iconic/png/pulse-2x.png
+#	iconic/png/pulse-3x.png
+#	iconic/png/pulse-4x.png
+#	iconic/png/pulse-6x.png
+#	iconic/png/pulse-8x.png
+#	iconic/png/pulse.png
+#	iconic/png/puzzle-piece-2x.png
+#	iconic/png/puzzle-piece-3x.png
+#	iconic/png/puzzle-piece-4x.png
+#	iconic/png/puzzle-piece-6x.png
+#	iconic/png/puzzle-piece-8x.png
+#	iconic/png/puzzle-piece.png
+#	iconic/png/question-mark-2x.png
+#	iconic/png/question-mark-3x.png
+#	iconic/png/question-mark-4x.png
+#	iconic/png/question-mark-6x.png
+#	iconic/png/question-mark-8x.png
+#	iconic/png/question-mark.png
+#	iconic/png/rain-2x.png
+#	iconic/png/rain-3x.png
+#	iconic/png/rain-4x.png
+#	iconic/png/rain-6x.png
+#	iconic/png/rain-8x.png
+#	iconic/png/rain.png
+#	iconic/png/random-2x.png
+#	iconic/png/random-3x.png
+#	iconic/png/random-4x.png
+#	iconic/png/random-6x.png
+#	iconic/png/random-8x.png
+#	iconic/png/random.png
+#	iconic/png/reload-2x.png
+#	iconic/png/reload-3x.png
+#	iconic/png/reload-4x.png
+#	iconic/png/reload-6x.png
+#	iconic/png/reload-8x.png
+#	iconic/png/reload.png
+#	iconic/png/resize-both-2x.png
+#	iconic/png/resize-both-3x.png
+#	iconic/png/resize-both-4x.png
+#	iconic/png/resize-both-6x.png
+#	iconic/png/resize-both-8x.png
+#	iconic/png/resize-both.png
+#	iconic/png/resize-height-2x.png
+#	iconic/png/resize-height-3x.png
+#	iconic/png/resize-height-4x.png
+#	iconic/png/resize-height-6x.png
+#	iconic/png/resize-height-8x.png
+#	iconic/png/resize-height.png
+#	iconic/png/resize-width-2x.png
+#	iconic/png/resize-width-3x.png
+#	iconic/png/resize-width-4x.png
+#	iconic/png/resize-width-6x.png
+#	iconic/png/resize-width-8x.png
+#	iconic/png/resize-width.png
+#	iconic/png/rss-2x.png
+#	iconic/png/rss-3x.png
+#	iconic/png/rss-4x.png
+#	iconic/png/rss-6x.png
+#	iconic/png/rss-8x.png
+#	iconic/png/rss-alt-2x.png
+#	iconic/png/rss-alt-3x.png
+#	iconic/png/rss-alt-4x.png
+#	iconic/png/rss-alt-6x.png
+#	iconic/png/rss-alt-8x.png
+#	iconic/png/rss-alt.png
+#	iconic/png/rss.png
+#	iconic/png/script-2x.png
+#	iconic/png/script-3x.png
+#	iconic/png/script-4x.png
+#	iconic/png/script-6x.png
+#	iconic/png/script-8x.png
+#	iconic/png/script.png
+#	iconic/png/share-2x.png
+#	iconic/png/share-3x.png
+#	iconic/png/share-4x.png
+#	iconic/png/share-6x.png
+#	iconic/png/share-8x.png
+#	iconic/png/share-boxed-2x.png
+#	iconic/png/share-boxed-3x.png
+#	iconic/png/share-boxed-4x.png
+#	iconic/png/share-boxed-6x.png
+#	iconic/png/share-boxed-8x.png
+#	iconic/png/share-boxed.png
+#	iconic/png/share.png
+#	iconic/png/shield-2x.png
+#	iconic/png/shield-3x.png
+#	iconic/png/shield-4x.png
+#	iconic/png/shield-6x.png
+#	iconic/png/shield-8x.png
+#	iconic/png/shield.png
+#	iconic/png/signal-2x.png
+#	iconic/png/signal-3x.png
+#	iconic/png/signal-4x.png
+#	iconic/png/signal-6x.png
+#	iconic/png/signal-8x.png
+#	iconic/png/signal.png
+#	iconic/png/signpost-2x.png
+#	iconic/png/signpost-3x.png
+#	iconic/png/signpost-4x.png
+#	iconic/png/signpost-6x.png
+#	iconic/png/signpost-8x.png
+#	iconic/png/signpost.png
+#	iconic/png/sort-ascending-2x.png
+#	iconic/png/sort-ascending-3x.png
+#	iconic/png/sort-ascending-4x.png
+#	iconic/png/sort-ascending-6x.png
+#	iconic/png/sort-ascending-8x.png
+#	iconic/png/sort-ascending.png
+#	iconic/png/sort-descending-2x.png
+#	iconic/png/sort-descending-3x.png
+#	iconic/png/sort-descending-4x.png
+#	iconic/png/sort-descending-6x.png
+#	iconic/png/sort-descending-8x.png
+#	iconic/png/sort-descending.png
+#	iconic/png/spreadsheet-2x.png
+#	iconic/png/spreadsheet-3x.png
+#	iconic/png/spreadsheet-4x.png
+#	iconic/png/spreadsheet-6x.png
+#	iconic/png/spreadsheet-8x.png
+#	iconic/png/spreadsheet.png
+#	iconic/png/star-2x.png
+#	iconic/png/star-3x.png
+#	iconic/png/star-4x.png
+#	iconic/png/star-6x.png
+#	iconic/png/star-8x.png
+#	iconic/png/star.png
+#	iconic/png/sun-2x.png
+#	iconic/png/sun-3x.png
+#	iconic/png/sun-4x.png
+#	iconic/png/sun-6x.png
+#	iconic/png/sun-8x.png
+#	iconic/png/sun.png
+#	iconic/png/tablet-2x.png
+#	iconic/png/tablet-3x.png
+#	iconic/png/tablet-4x.png
+#	iconic/png/tablet-6x.png
+#	iconic/png/tablet-8x.png
+#	iconic/png/tablet.png
+#	iconic/png/tag-2x.png
+#	iconic/png/tag-3x.png
+#	iconic/png/tag-4x.png
+#	iconic/png/tag-6x.png
+#	iconic/png/tag-8x.png
+#	iconic/png/tag.png
+#	iconic/png/tags-2x.png
+#	iconic/png/tags-3x.png
+#	iconic/png/tags-4x.png
+#	iconic/png/tags-6x.png
+#	iconic/png/tags-8x.png
+#	iconic/png/tags.png
+#	iconic/png/target-2x.png
+#	iconic/png/target-3x.png
+#	iconic/png/target-4x.png
+#	iconic/png/target-6x.png
+#	iconic/png/target-8x.png
+#	iconic/png/target.png
+#	iconic/png/task-2x.png
+#	iconic/png/task-3x.png
+#	iconic/png/task-4x.png
+#	iconic/png/task-6x.png
+#	iconic/png/task-8x.png
+#	iconic/png/task.png
+#	iconic/png/terminal-2x.png
+#	iconic/png/terminal-3x.png
+#	iconic/png/terminal-4x.png
+#	iconic/png/terminal-6x.png
+#	iconic/png/terminal-8x.png
+#	iconic/png/terminal.png
+#	iconic/png/text-2x.png
+#	iconic/png/text-3x.png
+#	iconic/png/text-4x.png
+#	iconic/png/text-6x.png
+#	iconic/png/text-8x.png
+#	iconic/png/text.png
+#	iconic/png/thumb-down-2x.png
+#	iconic/png/thumb-down-3x.png
+#	iconic/png/thumb-down-4x.png
+#	iconic/png/thumb-down-6x.png
+#	iconic/png/thumb-down-8x.png
+#	iconic/png/thumb-down.png
+#	iconic/png/thumb-up-2x.png
+#	iconic/png/thumb-up-3x.png
+#	iconic/png/thumb-up-4x.png
+#	iconic/png/thumb-up-6x.png
+#	iconic/png/thumb-up-8x.png
+#	iconic/png/thumb-up.png
+#	iconic/png/timer-2x.png
+#	iconic/png/timer-3x.png
+#	iconic/png/timer-4x.png
+#	iconic/png/timer-6x.png
+#	iconic/png/timer-8x.png
+#	iconic/png/timer.png
+#	iconic/png/transfer-2x.png
+#	iconic/png/transfer-3x.png
+#	iconic/png/transfer-4x.png
+#	iconic/png/transfer-6x.png
+#	iconic/png/transfer-8x.png
+#	iconic/png/transfer.png
+#	iconic/png/trash-2x.png
+#	iconic/png/trash-3x.png
+#	iconic/png/trash-4x.png
+#	iconic/png/trash-6x.png
+#	iconic/png/trash-8x.png
+#	iconic/png/trash.png
+#	iconic/png/underline-2x.png
+#	iconic/png/underline-3x.png
+#	iconic/png/underline-4x.png
+#	iconic/png/underline-6x.png
+#	iconic/png/underline-8x.png
+#	iconic/png/underline.png
+#	iconic/png/vertical-align-bottom-2x.png
+#	iconic/png/vertical-align-bottom-3x.png
+#	iconic/png/vertical-align-bottom-4x.png
+#	iconic/png/vertical-align-bottom-6x.png
+#	iconic/png/vertical-align-bottom-8x.png
+#	iconic/png/vertical-align-bottom.png
+#	iconic/png/vertical-align-center-2x.png
+#	iconic/png/vertical-align-center-3x.png
+#	iconic/png/vertical-align-center-4x.png
+#	iconic/png/vertical-align-center-6x.png
+#	iconic/png/vertical-align-center-8x.png
+#	iconic/png/vertical-align-center.png
+#	iconic/png/vertical-align-top-2x.png
+#	iconic/png/vertical-align-top-3x.png
+#	iconic/png/vertical-align-top-4x.png
+#	iconic/png/vertical-align-top-6x.png
+#	iconic/png/vertical-align-top-8x.png
+#	iconic/png/vertical-align-top.png
+#	iconic/png/video-2x.png
+#	iconic/png/video-3x.png
+#	iconic/png/video-4x.png
+#	iconic/png/video-6x.png
+#	iconic/png/video-8x.png
+#	iconic/png/video.png
+#	iconic/png/volume-high-2x.png
+#	iconic/png/volume-high-3x.png
+#	iconic/png/volume-high-4x.png
+#	iconic/png/volume-high-6x.png
+#	iconic/png/volume-high-8x.png
+#	iconic/png/volume-high.png
+#	iconic/png/volume-low-2x.png
+#	iconic/png/volume-low-3x.png
+#	iconic/png/volume-low-4x.png
+#	iconic/png/volume-low-6x.png
+#	iconic/png/volume-low-8x.png
+#	iconic/png/volume-low.png
+#	iconic/png/volume-off-2x.png
+#	iconic/png/volume-off-3x.png
+#	iconic/png/volume-off-4x.png
+#	iconic/png/volume-off-6x.png
+#	iconic/png/volume-off-8x.png
+#	iconic/png/volume-off.png
+#	iconic/png/warning-2x.png
+#	iconic/png/warning-3x.png
+#	iconic/png/warning-4x.png
+#	iconic/png/warning-6x.png
+#	iconic/png/warning-8x.png
+#	iconic/png/warning.png
+#	iconic/png/wifi-2x.png
+#	iconic/png/wifi-3x.png
+#	iconic/png/wifi-4x.png
+#	iconic/png/wifi-6x.png
+#	iconic/png/wifi-8x.png
+#	iconic/png/wifi.png
+#	iconic/png/wrench-2x.png
+#	iconic/png/wrench-3x.png
+#	iconic/png/wrench-4x.png
+#	iconic/png/wrench-6x.png
+#	iconic/png/wrench-8x.png
+#	iconic/png/wrench.png
+#	iconic/png/x-2x.png
+#	iconic/png/x-3x.png
+#	iconic/png/x-4x.png
+#	iconic/png/x-6x.png
+#	iconic/png/x-8x.png
+#	iconic/png/x.png
+#	iconic/png/yen-2x.png
+#	iconic/png/yen-3x.png
+#	iconic/png/yen-4x.png
+#	iconic/png/yen-6x.png
+#	iconic/png/yen-8x.png
+#	iconic/png/yen.png
+#	iconic/png/zoom-in-2x.png
+#	iconic/png/zoom-in-3x.png
+#	iconic/png/zoom-in-4x.png
+#	iconic/png/zoom-in-6x.png
+#	iconic/png/zoom-in-8x.png
+#	iconic/png/zoom-in.png
+#	iconic/png/zoom-out-2x.png
+#	iconic/png/zoom-out-3x.png
+#	iconic/png/zoom-out-4x.png
+#	iconic/png/zoom-out-6x.png
+#	iconic/png/zoom-out-8x.png
+#	iconic/png/zoom-out.png
+#	iconic/sprite/
+#	iconic/svg/
+#	iconic/webp/
+#	incorporacao.html
+#	js/bootstrap.bundle.js
+#	js/bootstrap.bundle.js.map
+#	js/bootstrap.bundle.min.js
+#	js/bootstrap.bundle.min.js.map
+#	js/bootstrap.js.map
+#	js/bootstrap.min.js.map
+#	modal.html
+#	n510kakk.t2m.txt
+#	navegacao.html
+#	tamanho.html
+#	texto.html
+#	tooltips.html
+#	utilitarios.html
+#
+

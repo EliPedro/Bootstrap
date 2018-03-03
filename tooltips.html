@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-device-width, initial-scale = 1, shrink-to-fit=no">
+    <title>
+        Tooltips
+    </title>
+    <style type="text/css">
+        .row {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <p>
+                    Aliquam erat volutpat. Morbi erat quam, accumsan ornare porttitor vel, dignissim id dolor. Donec sagittis magna in risus
+                    placerat, sed lacinia nisi malesuada. Curabitur scelerisque sodales mauris, nec imperdiet tellus lacinia
+                    vitae. Integer dapibus nunc id arcu ornare gravida. Donec efficitur, purus sed interdum mollis, urna
+                    ligula mattis dui, eget commodo metus ipsum nec lectus. Nunc gravida eros eget neque posuere, vitae luctus
+                    libero aliquet. Nam at suscipit nulla. Aenean rhoncus, metus quis sodales suscipit, est dolor dictum
+                    ligula, dapibus efficitur nunc augue ac risus. Vestibulum vehicula interdum facilisis. Nulla facilisi.
+                    Etiam feugiat, urna sed fringilla lacinia, lorem arcu faucibus lacus, at fringilla erat purus sed velit.
+                    Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin rhoncus,
+                    nisl sed iaculis tristique, sapien lacus tincidunt nunc, vitae tempor odio sapien vitae libero. Quisque
+                    feugiat pretium nunc nec molestie. Donec ex ligula, finibus sed consequat eget, imperdiet a mauris.
+                </p>
+                <button class="btn btn-secondary" data-toggle="tooltip" data-placement="top" title="Tooltip no top">
+                        Tooltip Top
+                    </button>
+
+                                 <button class="btn btn-secondary" data-toggle="tooltip" data-placement="right" title="Tooltip na direita">
+                        Tooltip Right
+                    </button>
+
+             <button class="btn btn-secondary" data-toggle="tooltip" data-placement="left" title="Tooltip na esquerda">
+                        Tooltip Left
+                    </button>
+
+             <button class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip em baixo">
+                        Tooltip Bottom
+                    </button>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+<script type="text/javascript">
+    $(function () {
+
+        $('[data-toggle="tooltip"]').tooltip();
+    });
+</script>
+
+</html>
